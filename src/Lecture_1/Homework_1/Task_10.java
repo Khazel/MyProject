@@ -1,13 +1,13 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
 public class Task_10 {
     public static void main(String[] args) {
 
-        System.out.println("Please enter a natural number from the keyboard in the range [0-24]");
-
         Scanner sc = new Scanner(System.in);
+
+        System.out.println("Please enter a natural number from the keyboard in the range [0-24]");
         int number = sc.nextInt();
 
         if ((number >= 5) && (number <= 10)) {

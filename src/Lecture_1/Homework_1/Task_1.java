@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -18,8 +18,10 @@ public class Task_1 {
 
         if ((c > a) && (c < b)) {
             System.out.println("Number " + c + " is between " + a + " and " + b);
+        } else if ((c < a) && (c > b)) {
+            System.out.println("Number " + c + " is between " + a + " and " + b);
         } else {
             System.out.println("Number " + c + " is not between " + a + " and " + b);
         }
-        }
     }
+}

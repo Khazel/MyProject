@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -6,9 +6,9 @@ public class Task_12 {
 
     public static void main(String[] args) {
 
-        System.out.println("Please enter the year");
-
         Scanner sc = new Scanner(System.in);
+
+        System.out.println("Please enter the year");
         int year = sc.nextInt();
 
         if (year % 4 != 0) {
