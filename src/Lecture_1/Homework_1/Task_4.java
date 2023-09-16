@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -31,5 +31,5 @@ public class Task_4 {
         System.out.println("first number - " + firstNumber);
         System.out.println("second number - " + secondNumber);
         System.out.println("third number - " + thirdNumber);
-        }
     }
+}

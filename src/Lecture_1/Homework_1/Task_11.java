@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -6,9 +6,9 @@ public class Task_11 {
 
     public static void main(String[] args) {
 
-        System.out.println("Please enter a three-digit natural number");
-
         Scanner sc = new Scanner(System.in);
+
+        System.out.println("Please enter a three-digit natural number");
         int number = sc.nextInt();
 
         int firstDigit = number/100%10;
@@ -26,6 +26,7 @@ public class Task_11 {
             } else {
                     System.out.println("Try with another number.");
                 }
-        }   }
+            }
+        }
     }
 }

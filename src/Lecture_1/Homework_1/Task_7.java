@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -7,6 +7,7 @@ public class Task_7 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Please enter two natural two-digit numbers");
         int firstNumber = sc.nextInt();
         int secondNumber = sc.nextInt();
@@ -17,8 +18,7 @@ public class Task_7 {
         int multiplicationResult = firstNumber * secondNumber;
 
         System.out.println("Output:");
-        if (multiplicationResult % 2 == 0)
-        {
+        if (multiplicationResult % 2 == 0) {
             System.out.println(multiplicationResult + " - even");
         } else {
             System.out.println(multiplicationResult + " - odd");

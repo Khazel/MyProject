@@ -1,4 +1,4 @@
-package Lecture_1.Homework;
+package Lecture_1.Homework_1;
 
 import java.util.Scanner;
 
@@ -9,12 +9,7 @@ public class Task_5 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Please inform if you are at work:");
-        String atWork = sc.nextLine();
-        boolean isAtWork;
-        if (atWork == "Yes") isAtWork = true;
-        else {
-            isAtWork = false;
-        }
+        boolean isAtWork = sc.nextBoolean();
 
         System.out.println("Please enter time:");
         int time = sc.nextInt();
@@ -28,10 +23,10 @@ public class Task_5 {
         System.out.println("Please enter amount of money:");
         double money = sc.nextDouble();
 
-        if (isAtWork) { // It does not hit this condition, and I don't know how to debug with this IDE, so I cannot tell why.
+        if (isAtWork) {
             System.out.println("If I'm at work, I'll be working and won't be able to go out.");
         } else {
-            if (isDay == true) {
+            if (isDay) {
                 if (money > 10) {
                     System.out.println("If it's a day and I have more than 10$. I will go to the cinema.");
                 } else {

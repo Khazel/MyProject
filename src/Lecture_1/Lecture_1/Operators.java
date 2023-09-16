@@ -1,3 +1,5 @@
+package Lecture_1.Lecture_1;
+
 public class Operators {
 
     public static void main (String[] args) {
