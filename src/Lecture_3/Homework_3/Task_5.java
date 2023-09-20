@@ -11,6 +11,7 @@ public class Task_5 {
         for (int i = 0; i < array.length; i++) {
             array[i] = i * 4;
         }
+        
         System.out.println(Arrays.toString(array));
     }
 }
