@@ -1,6 +1,5 @@
 package Lecture_4.Homework_4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -13,7 +13,7 @@ public class Task_11 {
         System.out.println("Please enter an email");
         String input = sn.nextLine();
 
-        Pattern pattern = Pattern.compile("^[A-Za-z0-9+_.-]+@(.+)$");
+        Pattern pattern = Pattern.compile("^(?=.{1,64}@)[A-Za-z0-9_-]+(.[A-Za-z0-9_-]+)@[^-][A-Za-z0-9-]+(.[A-Za-z0-9-]+)(.[A-Za-z]{2,})$");
         Matcher matcher = pattern.matcher(input);
 
         if (matcher.matches()) {
