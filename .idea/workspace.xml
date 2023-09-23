@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dea06bb-feaa-4f63-954c-551d22ac3b70" name="Changes" comment="Removed unused import in Task_6. Changed regex in Task_11 according to comment." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lecture_3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Khazel&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="099abd17-331b-4b6e-b6bd-b6b742815ae8" />
+        <option name="url" value="https://github.com/Khazel/MyProject.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2UkmyMbrZYMI6fZvNDt6N4tVNTi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lecture__4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/MyProject/Lecture_1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\MyProject\Lecture_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_2.Lecture_2.NestedLoops" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_2.Lecture_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_2.Homework_2.Test" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_2.Homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dea06bb-feaa-4f63-954c-551d22ac3b70" name="Changes" comment="" />
+      <created>1693492207698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693492207698</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Homework for first lecture.">
+      <option name="closed" value="true" />
+      <created>1693849106764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693849106764</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework for first lecture.">
+      <option name="closed" value="true" />
+      <created>1693849384694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693849384694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework for second lecture.">
+      <option name="closed" value="true" />
+      <created>1694355826373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694355826373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework for second lecture.">
+      <option name="closed" value="true" />
+      <created>1694355897059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694355897059</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework for third lecture.">
+      <option name="closed" value="true" />
+      <created>1694711000952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694711000952</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Applied changes according to review comments.">
+      <option name="closed" value="true" />
+      <created>1694875246947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694875246947</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed tasks 10, 13, 14 for third lecture.">
+      <option name="closed" value="true" />
+      <created>1694968667859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694968667859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed homework for lecture four. Added .idea folder to the .gitignore file.">
+      <option name="closed" value="true" />
+      <created>1695123764945</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695123764945</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated homework for third lecture according to comments. Removed files from first lecture.">
+      <option name="closed" value="true" />
+      <created>1695240599019</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695240599019</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added .name to gitignore as it blocks checkout to other branch.">
+      <option name="closed" value="true" />
+      <created>1695241864025</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695241864025</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Removed unused import in Task_6. Changed regex in Task_11 according to comment.">
+      <option name="closed" value="true" />
+      <created>1695242438457</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242438457</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Lecture_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework for first lecture." />
+    <MESSAGE value="Homework for second lecture." />
+    <MESSAGE value="Homework for third lecture." />
+    <MESSAGE value="Applied changes according to review comments." />
+    <MESSAGE value="Completed tasks 10, 13, 14 for third lecture." />
+    <MESSAGE value="Completed homework for lecture four. Added .idea folder to the .gitignore file." />
+    <MESSAGE value="Updated homework for third lecture according to comments. Removed files from first lecture." />
+    <MESSAGE value="Added .name to gitignore as it blocks checkout to other branch." />
+    <MESSAGE value="Removed unused import in Task_6. Changed regex in Task_11 according to comment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused import in Task_6. Changed regex in Task_11 according to comment." />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+</project>
